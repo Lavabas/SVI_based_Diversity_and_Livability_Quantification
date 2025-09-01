@@ -1,0 +1,2 @@
+# SVI_based_Diversity_and_Livability_Quantification
+Quantifying Streetscape Diversity and Livability in Trincomalee Using Street-Level Imagery
